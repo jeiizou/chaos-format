@@ -1,0 +1,7 @@
+{
+  "name": "@chaos-kit/format",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "@chaos-kit/format-prettier",
+  "version": "0.0.0",
+  "description": "> a personal prettier rule by jeiizou",
+  "author": "jeiizou <jeiizou@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.json",
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  }
+}

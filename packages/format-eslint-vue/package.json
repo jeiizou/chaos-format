@@ -1,0 +1,32 @@
+{
+    "name": "@chaos-kit/eslint-config-format-vue",
+    "version": "0.0.1",
+    "keywords": [
+        "eslint",
+        "eslintplugin",
+        "eslint-plugin",
+        "typescript"
+    ],
+    "descriptioin": "souche vue next fomatter",
+    "main": "index.js",
+    "peerDependencies": {
+        "babel-eslint": "^10.1.0",
+        "eslint": "^7.13.0",
+        "prettier": "^2.1.2",
+        "typescript": "^4.0.5"
+    },
+    "dependencies": {
+        "@typescript-eslint/eslint-plugin": "^4.8.1",
+        "@typescript-eslint/parser": "^4.8.1",
+        "eslint-config-prettier": "^6.15.0",
+        "eslint-plugin-prettier": "^3.1.4",
+        "eslint-plugin-prettier-vue": "^2.1.1",
+        "eslint-plugin-typescript": "^0.14.0",
+        "eslint-plugin-vue": "^7.1.0",
+        "typescript": "^4.0.5",
+        "vue-eslint-parser": "^7.1.1"
+    },
+    "prettier": {
+        "singleQuote": true
+    }
+}
