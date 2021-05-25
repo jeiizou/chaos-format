@@ -7,7 +7,7 @@
 install:
 
 ```sh
-@chaos-kit/eslint-config-formate-vue
+yarn add -D @chaos-kit/eslint-config-formate-vue
 ```
 
 usage:
